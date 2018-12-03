@@ -5,7 +5,7 @@ A 2D platformer game created in the summer of 2016.
 * Scratch: https://scratch.mit.edu/projects/115952078/
 
 ## Description
-A 2D scrolling platformer game that acts as the sequel to "To the Woods". Navigate through a mysterious enchanted forest to locate your missing sister!
+Embark on a calm return trip from the sunny meadows to the cozy cabin in the woods.
 
 ## Controls
 * Use the WASD or arrow keys to move and jump. 
